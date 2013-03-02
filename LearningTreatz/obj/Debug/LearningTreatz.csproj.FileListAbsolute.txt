@@ -1,0 +1,1481 @@
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex01.1\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex01.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex01.2\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Do Nows-Completed\Do Now 04\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex02.1\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex02.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex02.2\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex02.3\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex02.3-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex03.1\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex03.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex03.2\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex03.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex04.1\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex04.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Do Nows-Completed\Do Now 07\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex04.2\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex04.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex05.1\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex05.2\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex05.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Do Nows-Completed\Do Now 08\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex06.1\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex06.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex06.2\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex06.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex06.3\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex06.3-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex07.1\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex07.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Do Nows-Completed\Do Now 09\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\LearningTreatz.Services.dll
+C:\2621\CS\Exercises-Completed\Ex07.2\LearningTreatz\bin\LearningTreatz.Services.pdb
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\LearningTreatz.Services.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\LearningTreatz.Services.pdb
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex07.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\LearningTreatz.Services.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\LearningTreatz.Services.pdb
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex08.1-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\LearningTreatz.Services.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\LearningTreatz.Services.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Do Nows-Completed\Do Now 10\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\LearningTreatz.Services.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\LearningTreatz.Services.pdb
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex08.2\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.Services.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\System.Web.Http.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.Services.pdb
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\System.Web.Http.xml
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\2621\CS\Exercises-Completed\Ex08.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.pdb
+C:\Ex08.2-Bonus\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\EntityFramework.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.Services.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\System.Web.Http.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\System.Web.Optimization.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\System.Web.Providers.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\WebGrease.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.Services.pdb
+C:\Ex08.2-Bonus\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\Ex08.2-Bonus\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\Ex08.2-Bonus\LearningTreatz\bin\System.Web.Http.xml
+C:\Ex08.2-Bonus\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\Ex08.2-Bonus\LearningTreatz\bin\EntityFramework.xml
+C:\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Ex08.2-Bonus\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\Ex08.2-Bonus\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\Ex08.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\Ex08.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\Ex08.2-Bonus\LearningTreatz\obj\Debug\LearningTreatz.pdb
+C:\Baseline\LearningTreatz\bin\LearningTreatz.dll
+C:\Baseline\LearningTreatz\bin\LearningTreatz.pdb
+C:\Baseline\LearningTreatz\bin\Antlr3.Runtime.dll
+C:\Baseline\LearningTreatz\bin\AspNet.ScriptManager.jQuery.dll
+C:\Baseline\LearningTreatz\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Baseline\LearningTreatz\bin\DotNetOpenAuth.AspNet.dll
+C:\Baseline\LearningTreatz\bin\DotNetOpenAuth.Core.dll
+C:\Baseline\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Baseline\LearningTreatz\bin\DotNetOpenAuth.OAuth.dll
+C:\Baseline\LearningTreatz\bin\DotNetOpenAuth.OpenId.dll
+C:\Baseline\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Baseline\LearningTreatz\bin\EntityFramework.dll
+C:\Baseline\LearningTreatz\bin\LearningTreatz.Core.dll
+C:\Baseline\LearningTreatz\bin\LearningTreatz.Services.dll
+C:\Baseline\LearningTreatz\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Baseline\LearningTreatz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Baseline\LearningTreatz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Baseline\LearningTreatz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Baseline\LearningTreatz\bin\Microsoft.Web.Infrastructure.dll
+C:\Baseline\LearningTreatz\bin\Newtonsoft.Json.dll
+C:\Baseline\LearningTreatz\bin\System.Net.Http.Formatting.dll
+C:\Baseline\LearningTreatz\bin\System.Web.Http.dll
+C:\Baseline\LearningTreatz\bin\System.Web.Http.WebHost.dll
+C:\Baseline\LearningTreatz\bin\System.Web.Optimization.dll
+C:\Baseline\LearningTreatz\bin\System.Web.Providers.dll
+C:\Baseline\LearningTreatz\bin\WebGrease.dll
+C:\Baseline\LearningTreatz\bin\LearningTreatz.Data.dll
+C:\Baseline\LearningTreatz\bin\LearningTreatz.Core.pdb
+C:\Baseline\LearningTreatz\bin\LearningTreatz.Services.pdb
+C:\Baseline\LearningTreatz\bin\Newtonsoft.Json.xml
+C:\Baseline\LearningTreatz\bin\System.Net.Http.Formatting.xml
+C:\Baseline\LearningTreatz\bin\System.Web.Http.xml
+C:\Baseline\LearningTreatz\bin\System.Web.Http.WebHost.xml
+C:\Baseline\LearningTreatz\bin\EntityFramework.xml
+C:\Baseline\LearningTreatz\bin\DotNetOpenAuth.Core.xml
+C:\Baseline\LearningTreatz\bin\DotNetOpenAuth.OAuth.xml
+C:\Baseline\LearningTreatz\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Baseline\LearningTreatz\bin\DotNetOpenAuth.OpenId.xml
+C:\Baseline\LearningTreatz\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Baseline\LearningTreatz\bin\DotNetOpenAuth.AspNet.xml
+C:\Baseline\LearningTreatz\bin\LearningTreatz.Data.pdb
+C:\Baseline\LearningTreatz\obj\Debug\LearningTreatz.csprojResolveAssemblyReference.cache
+C:\Baseline\LearningTreatz\obj\Debug\LearningTreatz.dll
+C:\Baseline\LearningTreatz\obj\Debug\LearningTreatz.pdb

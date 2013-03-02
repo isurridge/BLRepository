@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Mobile.Master" AutoEventWireup="true" CodeBehind="MobileHome.master.cs" Inherits="LearningTreatz.MobileHome" %>
+
+<%@ Register Src="~/Search.ascx" TagPrefix="uc1" TagName="Search" %>
+
+<asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
+    <asp:ObjectDataSource ID="CityDataSource" runat="server" SelectMethod="Cities" TypeName="LearningTreatz.StateManager"></asp:ObjectDataSource>
+    <asp:Repeater ID="CityListRepeater" runat="server" DataSourceID="CityDataSource">
+        <HeaderTemplate>
+            <ul data-role="listview">
+        </HeaderTemplate>
+      <ItemTemplate>
+            <li>
+                <asp:HyperLink ID="HyperLink1" NavigateUrl='<%# Eval("Id", "~/Restaurants.aspx?cityId={0}") %>'
+                    runat="server" Text='<%# Eval("Name") %>' />
+            </li>
+        </ItemTemplate>
+        <FooterTemplate></ul></FooterTemplate>
+    </asp:Repeater>
+    <div data-role="collapsible" data-collapsed="false">
+        <uc1:Search runat="server" ID="Search" EnableClientScript="False" />
+    </div>
+    <script type="text/javascript">
+        $('#MainPage').on('pageinit', function () {
+            $('#SearchTextBox').autocomplete({ source: '/api/ajax/', minLength: 2 });
+        });
+    </script>
+</asp:Content>

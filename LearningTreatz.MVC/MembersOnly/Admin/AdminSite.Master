@@ -1,0 +1,150 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminSite.Master.cs" Inherits="LearningTreatz.MVC.MembersOnly.Admin.AdminSiteMaster"  %>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %> - Milliman</title>
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+        <%: Scripts.Render("~/bundles/MsAjaxBundle") %>
+        <%: Scripts.Render("~/bundles/jquery") %>
+        <%: Scripts.Render("~/bundles/jquery.ui.combined") %>
+        <%: Scripts.Render("~/bundles/WebFormsBundle") %>
+                  
+
+    </asp:PlaceHolder>
+    <%: Styles.Render("~/Content/themes/base/css") %>
+    <%: Styles.Render("~/Content/css") %>
+
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+
+    <style type="text/css">
+        .hide {
+            display: none;
+        }
+
+        .btn{ text-decoration:none; border:1px solid #000; padding:5px 15px; font-weight:bold; }
+
+    </style>
+
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--Framework Scripts--%>
+                
+
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+        
+        <script type="text/javascript">
+
+
+            $(function () {
+                // $('#SearchTextBox').autocomplete({ source: '/api/ajax/', minLength: 2 });
+
+                var headerChk = $(".chkHeader input");
+                var itemChk = $(".chkItem input");
+
+                headerChk.click(function () {
+                   
+                    itemChk.each(function () {
+                        this.checked = headerChk[0].checked;                                       
+                       
+                    })
+                }).css("textAlign","center");
+
+                itemChk.each(function () {
+                    $(this).click(function () {
+                        if (this.checked == false)
+                        {
+                            headerChk[0].checked = false;
+                        }
+
+                    })
+                });
+
+              //  $('#DivCheckBox input').click(function () {
+              //      $('#sendingDiv').toggle('slow', function () {
+                        // Animation complete.
+              //      }); 
+              //  });
+
+            });
+        </script>
+        <header>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p class="site-title" style="display:none">
+                        <a runat="server" href="~/">
+                           <img src="/Images/learningtree.png" alt="LearningTreatz Logo" /></a>
+                    </p>
+                </div>
+                <div class="float-right">
+                    <section id="login">
+                        <asp:LoginView runat="server" ViewStateMode="Disabled">
+                            <AnonymousTemplate>
+                                <ul>
+                                    <li><a id="registerLink" runat="server" href="~/Account/Register.aspx">Register</a></li>
+                                    <li><a id="loginLink" runat="server" href="~/Account/Login.aspx">Log in</a></li>
+                                </ul>
+                            </AnonymousTemplate>
+                            <LoggedInTemplate>
+                                <p>
+                                    Hello, <a runat="server" class="username" href="~/Account/Manage.aspx" title="Manage your account">
+                                        <asp:LoginName runat="server" CssClass="username" />
+                                    </a>!
+                                <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" />
+                                </p>
+                            </LoggedInTemplate>
+                        </asp:LoginView>
+                    </section>
+
+                </div>
+            </div>
+        </header>
+        <div id="body">
+                <aside style="float:left">
+                    <nav>
+                        <ul id="menuAdmin">
+                            <li><a id="A1" runat="server" href="~/">Home</a></li>
+                            <li><a id="A2" runat="server" href="~/MembersOnly/Admin/ExpectedAttendees.aspx">Expected Attendees</a></li>
+                            <li><a id="A3" runat="server" href="~/MembersOnly/Admin/Registrations.aspx">Registrations</a></li>
+                              <li><a id="A6" runat="server" href="~/MembersOnly/Admin/Events.aspx">Events</a></li>
+                            <li><a id="A4" runat="server" href="~/MembersOnly/Admin/Speakers.aspx">Speakers</a></li>
+                            <li><a id="A5" runat="server" href="~/MembersOnly/Admin/CMSTemplates.aspx">CMS Pages</a></li>      
+                        </ul>
+                    </nav>
+                </aside>
+            <section class="content-wrapper-admin main-content clear-fix">
+                <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+            </section>
+        </div>
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>&copy; <%: DateTime.Now.Year %> - Milliman Inc.</p>
+                </div>
+            </div>
+        </footer>
+    </form>
+    <script type="text/javascript">
+        $('#SubmitButton').hide();
+    </script>
+</body>
+</html>

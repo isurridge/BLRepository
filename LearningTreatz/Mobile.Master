@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Mobile.master.cs" Inherits="LearningTreatz.Mobile" %>
+
+
+<!DOCTYPE html>
+<html>
+<head id="Head1" runat="server">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+    <title><%: Page.Title %></title>
+    <asp:PlaceHolder ID="PlaceHolder1" runat="server">
+        <%: Styles.Render("~/Content/themes/base/css") %>
+        <%: Styles.Render("~/Content/MobileCss") %>
+        <%: Scripts.Render("~/Scripts/MobileJs") %>
+    </asp:PlaceHolder>
+</head>
+<body>
+    <div id="MainPage">
+        <div data-role="page">
+            <form id="Form1" runat="server" data-ajax="false">
+                <div data-role="header">
+                    <a id="A1" runat="server" href="~/">Home</a>
+                    <h1>LearningTreatz <%: Page.Title %></h1>
+                </div>
+                <!-- /header -->
+
+                <div data-role="content">
+                    <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
+                    <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+                </div>
+                <!-- /content -->
+
+                <div data-role="footer">
+                    <a id="A3" runat="server" href="~/About.aspx">About</a>
+                    <a id="A4" runat="server" href="~/Contact.aspx">Contact</a>
+                    <asp:LoginView ID="LoginView3" runat="server" ViewStateMode="Disabled">
+                        <AnonymousTemplate>
+                            <a id="registerLink" runat="server" rel="external"  href="~/Account/Register.aspx">Register</a>
+                            <a id="loginLink" runat="server" rel="external"  href="~/Account/Login.aspx">Log in</a>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <asp:LoginStatus ID="LoginStatus1" runat="server" LogoutAction="Redirect" LogoutText="Log off"
+                                LogoutPageUrl="~/" />
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                </div>
+                <!-- /footer -->
+            </form>
+
+        </div>
+        <!-- /page -->
+    </div>
+</body>
+</html>

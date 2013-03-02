@@ -1,0 +1,334 @@
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	body
+	{
+		line-height: 1.5em;
+		font-size: 10pt;
+		letter-spacing: 0;
+		font-weight: 400;
+	}
+
+	h2, h3, h4, h5, h6
+	{
+		font-size: 1em !important;
+		font-weight: 600;
+	}
+	
+	section,
+	article
+	{
+		clear: both;
+	}
+
+	.button
+	{
+		width: 100%;
+		text-align: center;
+		padding: 1.25em 0 1.25em 0;
+	}
+
+	.image
+	{
+		width: 100%;
+	}
+	
+		.image img
+		{
+			width: 100%;
+		}
+	
+	/* Box */
+	
+		.box
+		{
+			margin: 5px;
+			box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.15);
+		}
+		
+		.box-standard
+		{
+			padding: 20px 10px 20px 10px;
+		}
+
+			.box-standard h2
+			{
+				left: -10px;
+				top: -20px;
+				padding: 15px 10px 15px 10px;
+				margin: 0 -20px 0 0;
+			}
+
+	/* Box: Links */
+
+		.box-links
+		{
+			padding: 0;
+		}
+		
+			.box-links h2
+			{
+				left: 0;
+				margin-right: 0;
+				top: 0;
+			}
+		
+			.box-links ul
+			{
+			}
+		
+			.box-links li
+			{
+				padding: 10px;
+				border-top: solid 1px #fff !important;
+				border-bottom: solid 1px #d7d7d7 !important;
+				border-left: 0;
+				border-right: 0;
+			}
+
+	/* Box: Features */
+
+		.box-features
+		{
+		}
+
+			.box-features .captions
+			{
+				padding: 15px;
+			}
+			
+			.box-features .viewer
+			{
+			}
+		
+			.box-features .tabs
+			{
+				display: none;
+			}
+
+	/* Box: Mini Posts */
+
+		.box-mini-posts
+		{
+		}
+
+			.box-mini-posts .image-full
+			{
+				width: 25%;
+				float: left;
+				margin: 0 20px 0 0;
+			}
+
+			.box-mini-posts h3,
+			.box-mini-posts p
+			{
+				margin-left: 25%;
+				padding-left: 20px;
+			}
+
+	/* Post: Small, Medium */
+
+		.post-small,
+		.post-medium
+		{
+		}
+			
+			.post-small .image,
+			.post-medium .image
+			{
+				width: 30%;
+			}
+
+			.post-small div,
+			.post-medium div
+			{
+				margin: 0;
+				padding-top: 0;
+			}
+
+			.post-small h3, .post-small p,
+			.post-medium h3, .post-medium p
+			{
+				margin: 0 0 0 30%;
+				padding-left: 20px;
+			}
+
+			.post-small .button,
+			.post-medium .button
+			{
+				margin-top: 1.5em;
+				clear: both;
+			}
+
+	/* Post: Big */
+
+		.post-big
+		{
+		}
+
+			.post-big .image
+			{
+				width: 100%;
+				float: none;
+				margin: 0 0 0.5em 0;
+			}
+
+			.post-big div
+			{
+				margin: 0;
+			}
+			
+			.post-big h3
+			{
+			}
+
+/*********************************************************************************/
+/* Mobile UI                                                                     */
+/*********************************************************************************/
+
+	#mobileUI-site-titlebar
+	{
+		background: url('images/bg04.jpg') top left repeat-x;
+		background-size: 30px 100%;
+		box-shadow: inset 0px 0px 0px 1px rgba(0,0,0,0.4), inset 0px 0px 0px 2px rgba(255,255,255,0.25);
+	}
+
+	#mobileUI-site-title
+	{
+		color: #fff;
+		font-weight: 700;
+		letter-spacing: -0.075em;
+		font-size: 1.25em;
+		line-height: 44px;
+	}
+
+	#mobileUI-site-nav-opener
+	{
+		text-indent: -9999em;
+		background: url('images/mobileUI-site-nav-opener-bg.svg') 8px 14px no-repeat;
+		width: 44px;
+		height: 44px;
+	}
+
+		#mobileUI-site-nav-opener:active
+		{
+		}
+
+	#mobileUI-site-nav
+	{
+		background: #222;
+		box-shadow: inset -3px 0px 10px 0px rgba(0,0,0,0.5);
+	}
+
+		#mobileUI-site-nav-inner
+		{
+		}
+
+			.mobileUI-site-nav-link
+			{
+				border-top: solid 1px rgba(255,255,255,0.075);
+				border-bottom: solid 1px rgba(0,0,0,1);
+				padding: 13px 15px 13px 15px;
+				color: #fff;
+				text-decoration: none;
+			}
+
+			.mobileUI-site-nav-link:first-child
+			{
+				border-top: 0;
+			}
+
+			.mobileUI-site-nav-link:last-child
+			{
+				border-bottom: 0;
+			}
+			
+/*********************************************************************************/
+/* Wrappers                                                                      */
+/*********************************************************************************/
+
+	#header-wrapper
+	{
+		padding: 10px 10px 10px 10px;
+		background: url('images/bg06.jpg') center center repeat-x;
+		box-shadow: inset 0px 0px 0px 1px rgba(0,0,0,0.6), inset 0px 2px 0px 0px rgba(255,255,255,0.1), inset 0px 0px 0px 2px rgba(255,255,255,0.2);
+	}
+	
+	#nav-wrapper
+	{
+		display: none;
+	}
+	
+	#info-wrapper
+	{
+		display: none;
+	}
+		
+	#main-wrapper
+	{
+		padding: 3px;
+	}
+	
+	#footer-wrapper
+	{
+		padding: 3em 20px 3em 20px;
+	}
+
+/*********************************************************************************/
+/* Header                                                                        */
+/*********************************************************************************/
+
+	#header
+	{
+	}
+
+		#header h1
+		{
+			display: none;
+		}
+
+		#header .slogan
+		{
+			display: none;
+		}
+
+/*********************************************************************************/
+/* Info                                                                          */
+/*********************************************************************************/
+
+	#info
+	{
+		text-align: center;
+	}
+
+/*********************************************************************************/
+/* Footer                                                                        */
+/*********************************************************************************/
+
+	#footer
+	{
+	}
+
+		#footer section,
+		#footer article
+		{
+			margin: 0 0 3em 0;
+		}
+
+/*********************************************************************************/
+/* Main                                                                          */
+/*********************************************************************************/
+
+	#main
+	{
+	}
+	
+/*********************************************************************************/
+/* Copyright                                                                     */
+/*********************************************************************************/
+
+	#copyright
+	{
+		padding: 2em 0 3em 0;
+	}

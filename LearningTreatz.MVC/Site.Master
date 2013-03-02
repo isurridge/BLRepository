@@ -1,0 +1,272 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="LearningTreatz.SiteMaster" %>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head id="Head1" runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %> - Milliman</title>
+    <asp:PlaceHolder ID="PlaceHolder1" runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+        <%: Scripts.Render("~/bundles/MsAjaxBundle") %>
+        <%: Scripts.Render("~/bundles/jquery") %>
+        <%: Scripts.Render("~/bundles/jquery.ui.combined") %>
+        <%: Scripts.Render("~/bundles/WebFormsBundle") %>
+                  
+
+    </asp:PlaceHolder>
+
+
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+
+    <style type="text/css">
+        .hide {
+            display: none;
+        }
+
+        .btn {
+            text-decoration: none;
+            border: 1px solid #000;
+            padding: 5px 15px;
+            font-weight: bold;
+        }
+    </style>
+    	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+		<script src="/Content/jquery-1.8.2.min.js"></script>
+		<script src="/Content/5grid/init.js?use=mobile,desktop,1000px&amp;mobileUI=1&amp;mobileUI.theme=none"></script>
+		<script src="/Content/jquery.dropotron-1.2.js"></script>
+		<script src="/Content/jquery.slidertron-1.2.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="/Content/5grid/core.css" />
+			<link rel="stylesheet" href="/Content/5grid/core-desktop.css" />
+			<link rel="stylesheet" href="/Content/5grid/core-1200px.css" />
+			<link rel="stylesheet" href="/Content/5grid/core-noscript.css" />
+			<link rel="stylesheet" href="/Content/style.css" />
+			<link rel="stylesheet" href="/Content/style-desktop.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
+		<!--[if lte IE 7]><link rel="stylesheet" href="css/ie7.css" /><![endif]-->
+		<script src="js/init.js"></script>
+</head>
+<body>
+    <form id="Form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+            <Scripts>
+                <%--Framework Scripts--%>
+
+
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <script type="text/javascript">
+
+
+            $(function () {
+                // $('#SearchTextBox').autocomplete({ source: '/api/ajax/', minLength: 2 });
+
+                var headerChk = $(".chkHeader input");
+                var itemChk = $(".chkItem input");
+
+                headerChk.click(function () {
+
+                    itemChk.each(function () {
+                        this.checked = headerChk[0].checked;
+
+                    })
+                }).css("textAlign", "center");
+
+                itemChk.each(function () {
+                    $(this).click(function () {
+                        if (this.checked == false) {
+                            headerChk[0].checked = false;
+                        }
+
+                    })
+                });
+
+                //  $('#DivCheckBox input').click(function () {
+                //      $('#sendingDiv').toggle('slow', function () {
+                // Animation complete.
+                //      }); 
+                //  });
+
+            });
+        </script>
+ 
+
+
+
+		<!-- Header Wrapper -->
+			<div id="header-wrapper">
+				<header id="header" class="5grid-layout">
+					<div class="row">
+						<div class="12u">
+							<h1><a href="/" class="mobileUI-site-name">Milliman</a></h1>
+							<span class="slogan">Ipsum feugiat consequat lorem</span>
+
+                                <div style="float: right;">
+                                <section id="login">
+                                    <asp:LoginView ID="LoginView1" runat="server" ViewStateMode="Disabled">
+                                        <AnonymousTemplate>
+                                            <ul>
+                                                <li><a id="registerLink" runat="server" href="~/Account/Register.aspx">Register</a></li>
+                                                <li><a id="loginLink" runat="server" href="~/Account/Login.aspx">Log in</a></li>
+                                            </ul>
+                                        </AnonymousTemplate>
+                                        <LoggedInTemplate>
+                                            <p>
+                                                Hello, <a id="A2" runat="server" class="username" href="~/Account/Manage.aspx" title="Manage your account">
+                                                    <asp:LoginName ID="LoginName1" runat="server" CssClass="username" />
+                                                </a>!
+                                                     <a id="A7" href="/Home/LogOut" runat="server">Log Off</a>
+                                            </p>
+
+                                        </LoggedInTemplate>
+                                    </asp:LoginView>
+                                </section>
+                            </div>
+
+						</div>
+					</div>
+				</header>
+			</div>
+
+
+
+        <!-- Nav Wrapper -->
+			<div id="nav-wrapper">
+				<nav id="nav" class="5grid-layout">
+					<div class="row">
+						<div class="12u">
+							<ul id="nav-top" class="mobileUI-site-nav">
+						            <li><a id="A1" runat="server" href="/">Home</a></li>
+                                    <li><a id="A3" runat="server" href="~/About.aspx">About</a></li>
+                                    <li><a id="A4" runat="server" href="~/Reg/Edit">Registration</a></li>
+                                    <li><a id="A5" runat="server" href="~/MembersOnly/Speakers.aspx">Speakers</a></li>
+                                    <li><a id="A6" runat="server" href="~/MembersOnly/Admin/Default.aspx">Admin</a></li>
+							</ul>
+						</div>
+					</div>
+				</nav>
+			</div>
+
+
+
+		
+		<!-- Info Wrapper -->
+			<div id="info-wrapper">
+				<div class="5grid-layout" id="info">
+					<div class="row">
+						<div class="12u">
+							<span class="news">
+								<strong></strong>
+							</span>
+							<span class="date">
+								Thursday, October 18, 2012
+							</span>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+
+		<!-- Main -->
+			<div id="main-wrapper">
+				<div class="5grid-layout 5grid-flush">
+					<div class="row">
+						<div class="12u">
+						<h2><%: Page.Title %></h2>
+							<!-- Post -->
+								<article class="box box-standard box-content">
+									
+                                    <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+								</article>
+						
+						</div>
+					</div>
+					
+				</div>
+			</div>
+
+		<!-- Footer -->
+			<div id="footer-wrapper">
+				<footer id="footer" class="5grid-layout">
+					<div class="row">
+						<div class="3u">
+							<section>
+								<h2>Feugiat lorem</h2>
+								<ul class="style1">
+									<li><a href="#">Vivamus mauris neque consequat</a></li>
+									<li><a href="#">Pulvinar eget bibendum sed veroeros</a></li>
+									<li><a href="#">Maecenas rutrum aliquam etiam lorem</a></li>
+									<li><a href="#">Aliquet nisl quam venenatis tempus</a></li>
+								</ul>
+							</section>
+						</div>
+						<div class="3u">
+							<section>
+								<h2>Nullam bibendum</h2>
+								<ul class="style1">
+									<li><a href="#">Vivamus mauris neque consequat</a></li>
+									<li><a href="#">Pulvinar eget bibendum sed veroeros</a></li>
+									<li><a href="#">Maecenas rutrum aliquam etiam lorem</a></li>
+									<li><a href="#">Aliquet nisl quam venenatis tempus</a></li>
+								</ul>
+							</section>
+						</div>
+						<div class="3u">
+							<section>
+								<h2>Odio aliquam</h2>
+								<ul class="style1">
+									<li><a href="#">Vivamus mauris neque consequat</a></li>
+									<li><a href="#">Pulvinar eget bibendum sed veroeros</a></li>
+									<li><a href="#">Maecenas rutrum aliquam etiam lorem</a></li>
+									<li><a href="#">Aliquet nisl quam venenatis tempus</a></li>
+								</ul>
+							</section>
+						</div>
+						<div class="3u">
+							<section>
+								<h2>Donec et sagittis</h2>
+								<p>Nam ut tellus quis mauris sagittis hendrerit eu vel ligula. Nulla 
+								accumsan erat in neque Donec in sem turpis. In et purus neque. Curabitur 
+								elit nibh, placerat quis sodales in, tristique at risus.</p>
+								<ul class="icons">
+									<li><a href="#"><img src="css/images/sicon01.png" alt="" /></a></li>
+									<li><a href="#"><img src="css/images/sicon02.png" alt="" /></a></li>
+									<li><a href="#"><img src="css/images/sicon03.png" alt="" /></a></li>
+									<li><a href="#"><img src="css/images/sicon04.png" alt="" /></a></li>
+									<li><a href="#"><img src="css/images/sicon05.png" alt="" /></a></li>
+								</ul>
+							</section>
+						</div>
+					</div>
+				</footer>
+				<div id="copyright">
+					&copy; Milliman Inc. 2013
+				</div>
+			</div>
+
+
+        </form>
+    <script type="text/javascript">
+        $('#SubmitButton').hide();
+    </script>
+</body>
+</html>
+

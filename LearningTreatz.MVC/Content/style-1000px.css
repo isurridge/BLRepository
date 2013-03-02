@@ -1,0 +1,224 @@
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	body
+	{
+	}
+
+	h2
+	{
+		font-size: 1em;
+	}
+
+	/* Box */
+
+		.box-standard
+		{
+			padding: 15px;
+		}
+
+			.box-standard h2
+			{
+				left: -15px;
+				top: -15px;
+				padding: 15px 20px 12px 20px;
+				margin: 0 -30px 0 0;
+			}
+
+	/* Box: Features */
+
+		.box-features
+		{
+			height: 325px;
+		}
+
+			.box-features .tabs
+			{
+			}
+
+				.box-features .tabs li
+				{
+					font-size: 1em;
+					letter-spacing: 0;
+				}
+
+					.box-features .tabs li a
+					{
+						padding: 15px 15px 14px 15px;
+					}
+		
+			.box-features .captions
+			{
+				padding: 1.5em;
+			}
+			
+				.box-features .captions .caption-line-1
+				{
+					font-size: 1.5em;
+				}
+
+			.box-features .viewer
+			{
+				margin-top: 20px;
+			}
+
+				.box-features .viewer .reel
+				{
+				}
+
+					.box-features .viewer .reel article
+					{
+						position: relative;
+						width: 657px;
+					}
+
+						.box-features .viewer .reel article img
+						{
+							width: 657px;
+						}
+
+	/* Post: Small */
+
+		.post-small
+		{
+		}
+			
+			.post-small .image
+			{
+				width: 5em;
+			}
+
+			.post-small div
+			{
+				margin-left: 6.5em;
+			}
+
+	/* Post: Medium */
+
+		.post-medium
+		{
+		}
+			
+			.post-medium .image
+			{
+				width: 15em;
+			}
+			
+			.post-medium div
+			{
+				margin-left: 17em;
+			}
+
+	/* Post: Big */
+
+		.post-big
+		{
+		}
+
+			.post-big .image
+			{
+				width: 23.5em;
+			}
+
+			.post-big div
+			{
+				margin-left: 25.5em;
+			}
+			
+			.post-big h3
+			{
+				font-size: 1.25em;
+			}
+
+	/* Box: Content */
+	
+		.box-content
+		{
+		}
+		
+			.box-content h3
+			{
+				font-size: 1.75em;
+				letter-spacing: -0.05em;
+				line-height: 1.1em;
+				margin: 0.5em 0 0.75em 0;
+			}
+		
+/*********************************************************************************/
+/* Wrappers                                                                      */
+/*********************************************************************************/
+
+	#main-wrapper
+	{
+		padding: 5px 0 5px 0;
+	}
+	
+	#footer-wrapper
+	{
+		padding: 3em 0 3em 0;
+	}
+
+/*********************************************************************************/
+/* Header                                                                        */
+/*********************************************************************************/
+
+	#header
+	{
+		padding: 2.5em 5px 2.5em 5px;
+	}
+
+		#header h1
+		{
+			font-size: 2.5em;
+		}
+
+		#header .slogan
+		{
+		}
+
+/*********************************************************************************/
+/* Searchbox                                                                     */
+/*********************************************************************************/
+
+	#searchbox
+	{
+		bottom: 1.75em;
+	}
+
+		#searchbox .text
+		{
+			width: 20em;
+		}
+
+/*********************************************************************************/
+/* Nav                                                                           */
+/*********************************************************************************/
+
+	#nav
+	{
+		font-size: 1.1em;
+	}
+	
+		#nav ul
+		{
+		}
+		
+			#nav ul li
+			{
+				margin-right: 2em;
+			}
+			
+				#nav ul li a
+				{
+					padding: 1.2em 0 1.2em 0;
+				}
+
+/*********************************************************************************/
+/* Copyright                                                                     */
+/*********************************************************************************/
+
+	#copyright
+	{
+		padding: 2em 0 0 0;
+	}

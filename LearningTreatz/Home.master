@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Home.master.cs" Inherits="LearningTreatz.Home" %>
+
+<%@ Register Src="~/Restaurants.ascx" TagPrefix="uc1" TagName="Restaurants" %>
+
+<asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
+        <article>
+        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+            <ContentTemplate>
+                <uc1:Restaurants runat="server" ID="RestaurantsUserControl" />
+                <asp:ObjectDataSource ID="RestaurantDataSource" runat="server" SelectMethod="Restaurants"
+                    TypeName="LearningTreatz.Services.RestaurantService">
+                    <SelectParameters>
+                        <asp:ControlParameter ControlID="CityDropDownList" PropertyName="SelectedValue" Name="cityId" Type="Int32"></asp:ControlParameter>
+
+                    </SelectParameters>
+                </asp:ObjectDataSource>
+            </ContentTemplate>
+            <Triggers>
+                <asp:AsyncPostBackTrigger ControlID="CityDropDownList" EventName="SelectedIndexChanged" />
+            </Triggers>
+        </asp:UpdatePanel>
+
+    </article>
+</asp:Content>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ckeditor3</id>
+    <version>3.6.5</version>
+    <title>CKEditor</title>
+    <authors>CKEditor</authors>
+    <owners>CKEditor</owners>
+    <licenseUrl>http://ckeditor.com/license</licenseUrl>
+    <projectUrl>http://ckeditor.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>CKEditor is a text editor to be used inside web pages. It's a WYSIWYG editor, which means that the text being edited on it looks as similar as possible to the results users have when publishing it. It brings to the web common editing features found on desktop editing applications like Microsoft Word and OpenOffice.</description>
+    <releaseNotes>See: http://ckeditor.com/blog/ckeditor_3.6.5_released for release notes</releaseNotes>
+    <copyright>Copyright � 2012</copyright>
+    <language />
+    <references>
+      <reference file="ckeditor3.dll" />
+    </references>
+  </metadata>
+</package>
