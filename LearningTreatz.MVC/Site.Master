@@ -203,68 +203,85 @@
 				</div>
 			</div>
 
-		<!-- Footer -->
-			<div id="footer-wrapper">
-				<footer id="footer" class="5grid-layout">
-					<div class="row">
-						<div class="3u">
-							<section>
-								<h2>Feugiat lorem</h2>
-								<ul class="style1">
-									<li><a id="AdminLink" runat="server" href="~/MembersOnly/Admin/Default.aspx">Admin</a></li>
-								
-								</ul>
-							</section>
-						</div>
-						<div class="3u">
-							<section>
-								<h2>Nullam bibendum</h2>
-								<ul class="style1">
-									<li><a href="#">Vivamus mauris neque consequat</a></li>
-									<li><a href="#">Pulvinar eget bibendum sed veroeros</a></li>
-									<li><a href="#">Maecenas rutrum aliquam etiam lorem</a></li>
-									<li><a href="#">Aliquet nisl quam venenatis tempus</a></li>
-								</ul>
-							</section>
-						</div>
-						<div class="3u">
-							<section>
-								<h2>Odio aliquam</h2>
-								<ul class="style1">
-									<li><a href="#">Vivamus mauris neque consequat</a></li>
-									<li><a href="#">Pulvinar eget bibendum sed veroeros</a></li>
-									<li><a href="#">Maecenas rutrum aliquam etiam lorem</a></li>
-									<li><a href="#">Aliquet nisl quam venenatis tempus</a></li>
-								</ul>
-							</section>
-						</div>
-						<div class="3u">
-							<section>
-								<h2>Donec et sagittis</h2>
-								<p>Nam ut tellus quis mauris sagittis hendrerit eu vel ligula. Nulla 
+
+        <!-- Footer -->
+        <div id="footer-wrapper">
+            <footer id="footer" class="5grid-layout">
+                <div class="row">
+
+                    <div class="3u">
+                        <section>
+                            <h2>Agenda Highlights</h2>
+                            <ul class="style1">
+                                <li><a href="#">Vivamus mauris neque consequat</a></li>
+                                <li><a href="#">Pulvinar eget bibendum sed veroeros</a></li>
+                                <li><a href="#">Maecenas rutrum aliquam etiam lorem</a></li>
+                                <li><a href="#">Aliquet nisl quam venenatis tempus</a></li>
+                            </ul>
+                        </section>
+                    </div>
+
+                    <div class="3u">
+                        <section>
+                            <h2>Activity Hightlights</h2>
+                            <ul class="style1">
+                                <li><a href="#">Vivamus mauris neque consequat</a></li>
+                                <li><a href="#">Pulvinar eget bibendum sed veroeros</a></li>
+                                <li><a href="#">Maecenas rutrum aliquam etiam lorem</a></li>
+                                <li><a href="#">Aliquet nisl quam venenatis tempus</a></li>
+                            </ul>
+                        </section>
+                    </div>
+
+
+                    <div class="3u">
+                        <section>
+                            <h2>Event Details</h2>
+                            <p>
+                                Nam ut tellus quis mauris sagittis hendrerit eu vel ligula. Nulla 
 								accumsan erat in neque Donec in sem turpis. In et purus neque. Curabitur 
-								elit nibh, placerat quis sodales in, tristique at risus.</p>
-								<ul class="icons">
-									<li><a href="#"><img src="css/images/sicon01.png" alt="" /></a></li>
-									<li><a href="#"><img src="css/images/sicon02.png" alt="" /></a></li>
-									<li><a href="#"><img src="css/images/sicon03.png" alt="" /></a></li>
-									<li><a href="#"><img src="css/images/sicon04.png" alt="" /></a></li>
-									<li><a href="#"><img src="css/images/sicon05.png" alt="" /></a></li>
-								</ul>
-							</section>
-						</div>
-					</div>
-				</footer>
-				<div id="copyright">
-					&copy; Milliman Inc. 2013
-				</div>
-			</div>
+								elit nibh, placerat quis sodales in, tristique at risus.
+                            </p>
+                            <ul class="icons">
+                                <li><a href="#">
+                                    <img src="css/images/sicon01.png" alt="" /></a></li>
+                                <li><a href="#">
+                                    <img src="css/images/sicon02.png" alt="" /></a></li>
+                                <li><a href="#">
+                                    <img src="css/images/sicon03.png" alt="" /></a></li>
+                                <li><a href="#">
+                                    <img src="css/images/sicon04.png" alt="" /></a></li>
+                                <li><a href="#">
+                                    <img src="css/images/sicon05.png" alt="" /></a></li>
+                            </ul>
+                        </section>
+                    </div>
 
 
-        </form>
+                    <div class="3u">
+                        <section>
+                            <h2>Admin</h2>
+                            <ul class="style1">
+                                <li><a id="AdminLink" runat="server" href="~/MembersOnly/Admin/Default.aspx">Admin</a></li>
+                            </ul>
+                        </section>
+                    </div>
+
+
+
+
+
+                </div>
+            </footer>
+            <div id="copyright">
+                &copy; Milliman Inc. 2013
+            </div>
+        </div>
+
+
+    </form>
     <script type="text/javascript">
         $('#SubmitButton').hide();
     </script>
 </body>
 </html>
-
