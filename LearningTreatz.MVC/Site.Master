@@ -156,7 +156,7 @@
                                     <li><a id="A3" runat="server" href="~/About.aspx">About</a></li>
                                     <li><a id="A4" runat="server" href="~/Reg/Edit">Registration</a></li>
                                     <li><a id="A5" runat="server" href="~/MembersOnly/Speakers.aspx">Speakers</a></li>
-                                    <li><a id="A6" runat="server" href="~/MembersOnly/Admin/Default.aspx">Admin</a></li>
+                                    
 							</ul>
 						</div>
 					</div>
@@ -211,10 +211,8 @@
 							<section>
 								<h2>Feugiat lorem</h2>
 								<ul class="style1">
-									<li><a href="#">Vivamus mauris neque consequat</a></li>
-									<li><a href="#">Pulvinar eget bibendum sed veroeros</a></li>
-									<li><a href="#">Maecenas rutrum aliquam etiam lorem</a></li>
-									<li><a href="#">Aliquet nisl quam venenatis tempus</a></li>
+									<li><a id="AdminLink" runat="server" href="~/MembersOnly/Admin/Default.aspx">Admin</a></li>
+								
 								</ul>
 							</section>
 						</div>
