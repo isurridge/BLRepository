@@ -205,12 +205,26 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="About.aspx.cs">
-      <DependentUpon>About.aspx</DependentUpon>
+    <Compile Include="Expenses.aspx.cs">
+      <DependentUpon>Expenses.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="About.aspx.designer.cs">
-      <DependentUpon>About.aspx</DependentUpon>
+    <Compile Include="Expenses.aspx.designer.cs">
+      <DependentUpon>Expenses.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Travel.aspx.cs">
+      <DependentUpon>Travel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Travel.aspx.designer.cs">
+      <DependentUpon>Travel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MeetingInfo.aspx.cs">
+      <DependentUpon>MeetingInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MeetingInfo.aspx.designer.cs">
+      <DependentUpon>MeetingInfo.aspx</DependentUpon>
     </Compile>
     <Compile Include="Account\Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
@@ -275,6 +289,13 @@
     </Compile>
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\RegController.cs" />
+    <Compile Include="FAQ.aspx.cs">
+      <DependentUpon>FAQ.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FAQ.aspx.designer.cs">
+      <DependentUpon>FAQ.aspx</DependentUpon>
+    </Compile>
     <Compile Include="MembersOnly\Admin\AdminSite.Master.cs">
       <DependentUpon>AdminSite.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -436,7 +457,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="About.aspx" />
+    <Content Include="Expenses.aspx" />
+    <Content Include="Travel.aspx" />
+    <Content Include="MeetingInfo.aspx" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Manage.aspx" />
     <Content Include="Account\OpenAuthProviders.ascx" />
@@ -1460,6 +1483,7 @@
     <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="FAQ.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />

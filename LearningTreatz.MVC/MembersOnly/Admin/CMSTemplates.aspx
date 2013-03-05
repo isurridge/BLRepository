@@ -36,6 +36,9 @@
     </asp:GridView>
 
 
+    
+
+
 
     <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString='<%$ ConnectionStrings:RestaurantEntities %>'
         SelectCommand="SELECT * FROM [T_Pages]"></asp:SqlDataSource>

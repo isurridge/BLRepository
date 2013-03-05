@@ -1,6 +1,7 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="LearningTreatz.SiteMaster" %>
 
 
+<%@ Register TagPrefix="ctr" TagName="Navlist" Src="~/NavList.ascx" %>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -146,41 +147,51 @@
 
 
 
-        <!-- Nav Wrapper -->
-			<div id="nav-wrapper">
-				<nav id="nav" class="5grid-layout">
-					<div class="row">
-						<div class="12u">
-							<ul id="nav-top" class="mobileUI-site-nav">
-						            <li><a id="A1" runat="server" href="/">Home</a></li>
-                                    <li><a id="A3" runat="server" href="~/About.aspx">About</a></li>
-                                    <li><a id="A4" runat="server" href="~/Reg/Edit">Registration</a></li>
-                                    <li><a id="A5" runat="server" href="~/MembersOnly/Speakers.aspx">Speakers</a></li>
-                                    
-							</ul>
-						</div>
-					</div>
-				</nav>
-			</div>
 
 
 
-		
-		<!-- Info Wrapper -->
-			<div id="info-wrapper">
-				<div class="5grid-layout" id="info">
-					<div class="row">
-						<div class="12u">
-							<span class="news">
-								<strong></strong>
-							</span>
-							<span class="date">
-								Thursday, October 18, 2012
-							</span>
-						</div>
-					</div>
-				</div>
-			</div>
+
+
+
+        
+
+
+
+
+
+
+        <div id="nav-wrapper" >
+            <div class="5grid-layout">
+                <div class="row">
+                    <div class="12u">
+                        
+                       <ctr:Navlist runat="server" ID="navList" />
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
