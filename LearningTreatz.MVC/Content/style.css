@@ -453,7 +453,6 @@ ul.icons {
 }
 
 #nav-wrapper {
-
     background: url('images/bg05.jpg') center center repeat-x;
     -webkit-box-shadow: inset 0px 0px 0px 1px rgba(0,0,0,0.6), inset 0px 2px 0px 0px rgba(255,255,255,0.25), inset 0px 0px 0px 2px rgba(255,255,255,0.2);
     box-shadow: inset 0px 0px 0px 1px rgba(0,0,0,0.6), inset 0px 2px 0px 0px rgba(255,255,255,0.25), inset 0px 0px 0px 2px rgba(255,255,255,0.2);
@@ -594,130 +593,73 @@ ul.icons {
 
 
 
-/* ================================================================ 
-This copyright notice must be untouched at all times.
 
-The original version of this stylesheet and the associated (x)html
-is available at http://www.cssmenus.co.uk
-Copyright (c) 2009 Stu Nicholls. All rights reserved.
-This stylesheet and the associated (x)html may be modified in any 
-way to fit your requirements.
-=================================================================== */
-/* style the outer div to give it width */
-#dropline {
+
+
+
+
+/* Menu style ************************************************** */
+ul#nav {
+    width: 960px;
+    margin: 30px auto;
     padding: 0;
     list-style: none;
-    background: url(back.gif);
-    text-align: center;
-    margin: 0 auto;
-    font-size: 12px;
-    font-family: arial, sans-serif;
-    height: 41px;
-    width: 1000px;
-    position: absolute;
-    left: 0;
-    top: 139px;
+    background: none;
 }
 
-    #dropline div {
-        padding: 0;
-        margin: 0 auto;
-        list-style: none;
-        position: absolute;
-        left: -9999px;
-        width: 1000px;
-        text-align: center;
-        background: url(trans.gif);
-    }
-
-    #dropline table {
-        border-collapse: collapse;
-        font-size: 1em;
-        float: left;
-        margin: -1px;
-    }
-
-    #dropline ul li {
+    ul#nav li {
         display: inline;
-        margin: 0;
-        text-align: left;
     }
 
-        #dropline ul li a {
-            display: inline-block;
-            height: 30px;
-            line-height: 30px;
-            margin: 0;
-            padding: 0 10px;
-            background: transparent;
-            font-weight: bold;
-            font-size: 11px;
-        }
-
-    #dropline li {
-        display: inline;
-        margin: 0 -2px;
-        text-align: left;
-    }
-
-        #dropline li a {
-            display: inline-block;
-            height: 36px;
-            margin: 5px 0 0 0;
-            padding: 0 25px 0 0;
-            background: url(button.gif) right top;
-            line-height: 30px;
-            text-decoration: none;
-            color: #000;
-        }
-
-            #dropline li a.sub {
-                background: url(button-arrow.gif) right top;
-            }
-
-    html >/**/ body #dropline li {
-        display: inline-block;
-        padding: 0;
-    }
-
-        * html #dropline li a {
-            margin-bottom: -4px;
-            margin-right: 3px;
-        }
-
-            #dropline li a b {
-                display: block;
-                height: 36px;
-                float: left;
-                padding: 0 0 0 25px;
-                background: url(button.gif) left top;
-                cursor: pointer;
-            }
-
-            #dropline li a:hover {
-                background-position: right bottom;
-                color: #fff;
-            }
-
-                #dropline li a:hover b {
-                    background-position: left bottom;
-                }
-
-        #dropline li:hover > a {
-            background-position: right bottom;
+        ul#nav li a {
+            float: left;
+            font: normal 1em arial, sans-serif;
+            line-height: 40px;
             color: #fff;
+            text-decoration: none;
+            -webkit-text-shadow: 0px 1px 1px #444;
+            text-shadow: 0px 1px 1px #444;
+            margin: 0;
+            padding: 0 30px;
+            border: none;
+            background: none;
         }
 
-            #dropline li:hover > a b {
-                background-position: left bottom;
+        ul#nav .current a, ul#nav li:hover > a {
+            color: #ffd800;
+            text-decoration: none;
+            background: none;
+        }
+    /* Sub Menu style ************************************************** */
+    ul#nav ul {
+        display: none;
+        margin: 0;
+        padding: 0;
+        border: none;
+    }
+
+    ul#nav li:hover > ul {
+        position: absolute;
+        display: block;
+        width: 960px;
+        height: 40px;
+        margin: 40px 0 0 0;
+        background: none;
+    }
+
+        ul#nav li:hover > ul li a {
+            float: left;
+            font: normal 1em arial, sans-serif;
+            line-height: 40px;
+            color: #313131;
+            margin: 0;
+            padding: 0 30px;
+            background: none;
+        }
+
+            ul#nav li:hover > ul li a:hover {
+                color: #ff0000;
+                -webkit-text-shadow: 0px 0px 5px #0094ff;
+                text-shadow: 0px 0px 5px #0094ff;
+                text-decoration: none;
             }
-
-    #dropline :hover div {
-        left: 0;
-        top: 41px;
-    }
-
-    #dropline :hover ul li a:hover {
-        text-decoration: underline;
-        color: #800;
-    }
