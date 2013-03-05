@@ -1,6 +1,6 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="LearningTreatz.Views.SiteMaster" %>
 
-
+<%@ Register TagPrefix="ctr" TagName="Navlist" Src="~/NavList.ascx" %>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -39,6 +39,7 @@
     <script src="/Content/5grid/init.js?use=mobile,desktop,1000px&amp;mobileUI=1&amp;mobileUI.theme=none"></script>
     <script src="/Content/jquery.dropotron-1.2.js"></script>
     <script src="/Content/jquery.slidertron-1.2.js"></script>
+
     <noscript>
         <link rel="stylesheet" href="/Content/5grid/core.css" />
         <link rel="stylesheet" href="/Content/5grid/core-desktop.css" />
@@ -46,6 +47,8 @@
         <link rel="stylesheet" href="/Content/5grid/core-noscript.css" />
         <link rel="stylesheet" href="/Content/style.css" />
         <link rel="stylesheet" href="/Content/style-desktop.css" />
+        <link href="../Content/dropline_three.css" rel="stylesheet" />
+
     </noscript>
     <!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
     <!--[if lte IE 7]><link rel="stylesheet" href="css/ie7.css" /><![endif]-->
@@ -144,9 +147,6 @@
             </header>
         </div>
 
-
-
-        <!-- Nav Wrapper -->
         <div id="nav-wrapper">
             <nav id="nav" class="5grid-layout">
                 <div class="row">
@@ -162,6 +162,10 @@
                 </div>
             </nav>
         </div>
+
+
+
+
 
 
 
