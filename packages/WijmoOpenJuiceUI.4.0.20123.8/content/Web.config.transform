@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <system.web>
+    <pages>
+      <controls>
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijAccordion" tagPrefix="wijmo" />
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijCalendar" tagPrefix="wijmo" />
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijDialog" tagPrefix="wijmo" />
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijExpander" tagPrefix="wijmo" />
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijFormDecorator" tagPrefix="wijmo" />
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijList" tagPrefix="wijmo" />
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijMenu" tagPrefix="wijmo" />
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijProgressBar" tagPrefix="wijmo" />
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijSlider" tagPrefix="wijmo" />
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijSplitter" tagPrefix="wijmo" />
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijSuperPanel" tagPrefix="wijmo" />
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijTabs" tagPrefix="wijmo" />
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijTooltip" tagPrefix="wijmo" />
+     	<add assembly="C1.Web.Wijmo.Open.Juice.4" namespace="C1.Web.Wijmo.Juice.WijVideo" tagPrefix="wijmo" />
+      </controls>
+    </pages>
+  </system.web>
+</configuration>
