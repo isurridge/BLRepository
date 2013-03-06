@@ -92,3 +92,7 @@ C:\Baseline\LearningTreatz.MVC\bin\Org.Mentalis.Security.Cryptography.xml
 C:\Baseline\LearningTreatz.MVC\bin\Mono.Math.xml
 C:\Baseline\LearningTreatz.MVC\obj\Debug\LearningTreatz.MVC.dll
 C:\Baseline\LearningTreatz.MVC\obj\Debug\LearningTreatz.MVC.pdb
+C:\Baseline\LearningTreatz.MVC\bin\C1.Web.Wijmo.Open.Juice.4.dll
+C:\Baseline\LearningTreatz.MVC\bin\JuiceUI.dll
+C:\Baseline\LearningTreatz.MVC\bin\log4net.dll
+C:\Baseline\LearningTreatz.MVC\bin\log4net.xml
